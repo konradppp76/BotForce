@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "xk08pp5a"
     },
     "anti-afk": {
       "enabled": true,
