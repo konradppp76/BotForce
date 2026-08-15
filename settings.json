@@ -8,7 +8,7 @@
   "server": {
     "ip": "ForceGG.aternos.me",
     "port": 13170,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
